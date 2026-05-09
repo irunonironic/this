@@ -1,0 +1,22 @@
+# Generated files
+build/
+dist/
+out/
+coverage/
+tmp/
+temp/
+*.log
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
